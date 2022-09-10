@@ -18,8 +18,4 @@ This too shall pass away.
 
 <br>
 
----
-
-<br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwoong03&show_icons=true&theme=swift)
