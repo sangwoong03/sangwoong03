@@ -13,6 +13,7 @@ This too shall pass away.
     <img src="https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=MySQL&logoColor=#4479A1"/>
     <img src="https://img.shields.io/badge/Git-lightgray?style=flat&logo=GIt&logoColor=#F05032"/>
     <img src="https://img.shields.io/badge/Github-lightgray?style=flat&logo=Github&logoColor=#181717"/>
+    <img src="https://img.shields.io/badge/MONGODB-lightgray?style=flat&logo=MONGODB&logoColor=#181717"/>
 </div>
 
 <br>
