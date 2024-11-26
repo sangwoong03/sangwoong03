@@ -1,21 +1,14 @@
-### 📍 __Don't be nervous, be excited.__
+## 🧑‍💻 Introduce
 
-This too shall pass away.
-
-<br>
-
-### 📍 __Don't stop challenging__
-
-<div style="display: felx">
-    <img src="https://img.shields.io/badge/TypeScript-lightgray?style=flat&logo=TypeScript&logoColor=#007acc"/>
-    <img src="https://img.shields.io/badge/JavaScript-lightgray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
-    <img src="https://img.shields.io/badge/Node.Js-lightgray?style=flat&logo=Node.js&logoColor=#339933"/>
-    <img src="https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=MySQL&logoColor=#4479A1"/>
-    <img src="https://img.shields.io/badge/Git-lightgray?style=flat&logo=GIt&logoColor=#F05032"/>
-    <img src="https://img.shields.io/badge/Github-lightgray?style=flat&logo=Github&logoColor=#181717"/>
-    <img src="https://img.shields.io/badge/MONGODB-lightgray?style=flat&logo=MONGODB&logoColor=#181717"/>
-</div>
+안녕하세요! 김상웅입니다.<br>
+Node.js (TypeScript), NestJS, AWS 기반으로 백엔드 개발 업무를 담당하고 있습니다.<br>
+사용자 중심의 서비스를 구현하기 위해 다양한 분야를 학습하고 도전하는 것을 좋아합니다.
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwoong03&show_icons=true&theme=swift)
+## 🏃 Expreience
+
+|제목|기간|내용|
+|---|---|---|
+|Twominues (이분)|2023.06 ~ 현재|UX라이팅 플랫폼 [쉽게](https://www.twominutes.co.kr/) 개발 및 운영|
+|Gracefulrain|2022.09 ~ 2023.05|위코드 부트캠프 백엔드 멘트 & 저스트코드 온라인 코딩 플랫폼 개발|
