@@ -6,7 +6,7 @@ Node.js (TypeScript), NestJS, AWS 기반으로 백엔드 개발 업무를 담당
 
 <br>
 
-## 🏃 Expreience
+## 🏃 Experience
 
 |회사명|기간|주요업무|
 |---|---|---|
