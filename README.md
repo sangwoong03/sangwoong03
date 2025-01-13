@@ -1,7 +1,7 @@
 ## 🧑‍💻 Introduce
 
 안녕하세요! 김상웅입니다.<br>
-Node.js (TypeScript), NestJS, AWS 기반으로 백엔드 개발 업무를 담당하고 있습니다.<br>
+Node.js (TypeScript, NestJS Express.js 등) 및 AWS 기반으로 백엔드 개발 업무를 담당하고 있습니다.<br>
 사용자 중심의 서비스를 구현하기 위해 다양한 분야를 학습하고 도전하는 것을 좋아합니다.
 
 <br>
